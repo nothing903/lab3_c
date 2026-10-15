@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_gtest.dir/tests/test_gtest.cpp.o -o test_gtest  libinterpolation_lib.a lib/libgtest_main.a lib/libgtest.a 

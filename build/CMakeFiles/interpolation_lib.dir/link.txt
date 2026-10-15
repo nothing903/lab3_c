@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinterpolation_lib.a CMakeFiles/interpolation_lib.dir/src/interpolation.cpp.o
+/usr/bin/ranlib libinterpolation_lib.a
